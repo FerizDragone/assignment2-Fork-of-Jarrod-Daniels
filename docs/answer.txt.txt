@@ -1,0 +1,36 @@
+Made GitHub Account: January 31,2024
+
+Went through tutorials: Feburary 23, 2024
+
+1.git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 352 bytes | 352.00 KiB/s, done.
+Total 4 (delta 1), reused 1 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/FerizDragone/assignment2-Fork-of-Jarrod-Daniels.git
+   58ebb94..b4944ef  master -> master
+
+2.There have been 8 commits and I used the command 'git log'.
+
+3.$ git log -1 --pretty="format:%ci" README.md
+2024-02-23 20:43:04 -0600
+
+4. To snapshot the code and to see different versions of it.
+
+5. git log displays committed logs and git status inspects working directory and staging area.
+
+6.  git log Vehicle.h
+
+7. git log -p --name-only --grep=file
+
+8. I. Inheritance: when a new class is created that inherits the features of other classes
+   II. Polymorphism: using classes in multiple different forms
+   III. Encapsulation: can hide some of the private details of a class from other objects
+
+9. Dictators and Lieutenants Workflow: This kind of workflow is useful for very big projects or in highly hierarchical environments.
+   Integration manager work flow: Contributors don't have to wait for the project to incorporate their changes- each can work at their own pace
+
+10. Through the Dictator and Lieutenant workflow, this is made for large groups of developers, such as if there was 100 on duty, for the lead to delegate and collect many large amounts of code at multiple points.

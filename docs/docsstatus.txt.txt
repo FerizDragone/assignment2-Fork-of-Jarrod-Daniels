@@ -1,0 +1,32 @@
+aceas@DESKTOP-V310ADO MINGW64 ~/assignment2-Fork-of-Jarrod-Daniels (master)
+$ git commit
+[master b4944ef] Inputting message for commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 docs/answer.txt
+ create mode 100644 docs/docsstatus.txt
+
+
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   docs/docsstatus.txt.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 352 bytes | 352.00 KiB/s, done.
+Total 4 (delta 1), reused 1 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/FerizDragone/assignment2-Fork-of-Jarrod-Daniels.git
+   58ebb94..b4944ef  master -> master
+
